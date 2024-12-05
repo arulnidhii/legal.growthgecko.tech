@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/growthgecko-symbol-compressed.svg" alt="GrowthGecko Logo" width="150"/>
+</div>
+
+[← Back to Home](index.md)
+
 # GrowthGecko Cookie Policy
 
 *Last Updated: December 05, 2024*
