@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/growthgecko-symbol-compressed.svg" alt="GrowthGecko Logo" width="150"/>
+</div>
+
 # GrowthGecko Legal Documents
 
 Welcome to GrowthGecko's legal documentation. Please select from the following:
